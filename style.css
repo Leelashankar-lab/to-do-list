@@ -27,16 +27,6 @@ h1{
     position: static;
     z-index: 2;
 }
-.task2{
-    height: 250px;
-    width: 250px;
-    background-color: rgb(13, 13, 241,0.3);
-    border-radius: 50px;
-    margin-left: 100px;
-    position: relative;
-    top: -550px;
-    left:10px ;
-    z-index: -1;
 }
 
 form{
@@ -63,9 +53,7 @@ div{
 #submit{
     background-color: blueviolet;
     color:white;
-    position: relative;
-    top: -540;
-    left: 680px;
+    margin-left: 660px;
 }
 body{
     background-image: url("https://images.unsplash.com/photo-1455390582262-044cdead277a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d3JpdGluZ3xlbnwwfHwwfHx8MA%3D%3D");
